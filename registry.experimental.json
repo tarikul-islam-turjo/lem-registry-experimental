@@ -21,7 +21,7 @@
         "workflow": {
             "verified": true,
             "source": {
-                "linux": "https://github.com/tarikul-islam-turjo/workflow/releases/latest/download/workflow-linux-amd64.tar.gz"
+                "linux": "https://github.com/zeroplusltd/workflow/releases/latest/download/workflow-linux-amd64.tar.gz"
             }
         }
     }
