@@ -16,7 +16,7 @@
         },
         "zeron-template": {
             "verified": true,
-            "source": "https://github.com/zeroplusltd/zeron-template/releases/latest/download/zeron-template.zip"
+            "source": "https://github.com/zeroplusltd/zeron-template/releases/latest/download/zeron-template.tar.gz"
         },
         "workflow": {
             "verified": true,
