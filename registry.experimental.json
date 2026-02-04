@@ -21,7 +21,7 @@
         "workflow": {
             "verified": true,
             "source": {
-                "linux": "https://github.com/zeroplusltd/workflow/releases/latest/download/workbook-linux-amd64.tar.gz"
+                "linux": "https://github.com/zeroplusltd/workbook/releases/latest/download/workbook-linux-amd64.tar.gz"
             }
         }
     }
