@@ -3,8 +3,8 @@
         "zeron": {
             "verified": true,
             "source": {
-                "linux": "https://github.com/zeroplusltd/zeron/releases/latest/download/zeron-macos-amd64.tar.gz",
-                "macos": "https://github.com/zeroplusltd/zeron/releases/latest/download/zeron-linux-arm64.tar.gz",
+                "linux": "https://github.com/zeroplusltd/zeron/releases/latest/download/zeron-linux-amd64.tar.gz",
+                "macos": "https://github.com/zeroplusltd/zeron/releases/latest/download/zeron-macos-arm64.tar.gz",
                 "windows": "https://github.com/zeroplusltd/zeron/releases/latest/download/zeron-windows-x64.zip"
             }
         },
