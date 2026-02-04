@@ -18,7 +18,7 @@
             "verified": true,
             "source": "https://github.com/zeroplusltd/zeron-template/releases/latest/download/zeron-template.tar.gz"
         },
-        "workflow": {
+        "workbook": {
             "verified": true,
             "source": {
                 "linux": "https://github.com/zeroplusltd/workbook/releases/latest/download/workbook-linux-amd64.tar.gz"
