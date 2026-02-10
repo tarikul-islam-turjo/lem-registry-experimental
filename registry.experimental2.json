@@ -1,0 +1,67 @@
+{
+  "registryVersion": 1,
+  "modules": {
+    "zeron": {
+      "type": "module",
+      "latest": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "platforms": {
+            "linux-x64": {
+              "url": "https://github.com/zeroplusltd/zeron/releases/download/v1.0.0/zeron-linux-amd64.tar.gz",
+              "sha256": "PUT_SHA256_HERE",
+              "size": 12345678
+            },
+            "macos-arm64": {
+              "url": "https://github.com/zeroplusltd/zeron/releases/download/v1.0.0/zeron-macos-arm64.tar.gz",
+              "sha256": "PUT_SHA256_HERE",
+              "size": 12345678
+            },
+            "windows-x64": {
+              "url": "https://github.com/zeroplusltd/zeron/releases/download/v1.0.0/zeron-windows-x64.zip",
+              "sha256": "PUT_SHA256_HERE",
+              "size": 12345678
+            }
+          },
+          "dependencies": {},
+          "publishedAt": "2026-02-04"
+        }
+      }
+    },
+
+    "prelocss": {
+      "type": "module",
+      "latest": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "platforms": {
+            "linux-x64": {
+              "url": "https://github.com/zeroplusltd/prelocss/releases/download/v1.0.0/prelocss-linux-amd64.tar.gz",
+              "sha256": "PUT_SHA256_HERE",
+              "size": 12345678
+            }
+          },
+          "dependencies": {},
+          "publishedAt": "2026-02-04"
+        }
+      }
+    },
+
+    "zeron-template": {
+      "type": "template",
+      "latest": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "platforms": {
+            "all": {
+              "url": "https://github.com/zeroplusltd/zeron-template/releases/download/v1.0.0/zeron-template.zip",
+              "sha256": "PUT_SHA256_HERE",
+              "size": 12345678
+            }
+          },
+          "publishedAt": "2026-02-04"
+        }
+      }
+    }
+  }
+}
